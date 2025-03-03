@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2f442eab59c8f665e8b175701dda14de1d46f21b
 # Logs
 logs
 *.log
@@ -129,6 +132,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 =======
 # Node
 node_modules/
@@ -155,3 +159,5 @@ out/
 .DS_Store
 *.pem
 >>>>>>> caf1c50 (Premier commit)
+=======
+>>>>>>> 2f442eab59c8f665e8b175701dda14de1d46f21b
